@@ -1,1 +1,1 @@
-No license information available on source page at community.esri.com
+http://www.apache.org/licenses/LICENSE-2.0)http://www.apache.org/licenses/LICENSE-2.0
